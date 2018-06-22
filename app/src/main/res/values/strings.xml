@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Map_RadiusDetector</string>
+    <string name="app_name">Map RadiusDetector</string>
     <string name="properties_circle">Properties of Circle</string>
     <string name="circle_radius">Circle Radius</string>
 
